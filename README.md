@@ -1,4 +1,4 @@
-# REGRAS FUNCIONAIS
+# REQUISITOS FUNCIONAIS
 
 - [ ] O usuário deve poder criar uma nova transação;
 - [ ] O usuário deve poder obter um resumo da sua conta;
